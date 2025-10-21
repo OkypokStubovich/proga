@@ -3,14 +3,14 @@
 #define _use_math_defines //for c++
 
 using namespace std;
-/
+/**
 *@brief - Функция для вычисления А по заданному уравнению
 *@param х - значение переменной х
 *@param у - значение переменной у
 *@return- возвращает рассчитанное значение
 */
 double getA(const double x, const double y);
-/
+/**
 *@brief - Функция для вычисления А по заданному уравнению
 *@param х - значение переменной х
 *@param у - значение переменной у
